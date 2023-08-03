@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-FilePickerPluginEd.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\dev\FilePicker\Intermediate\Build\Win64\FilePickerEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"F:\dev\FilePicker\Plugins\FilePickerPlugin\Intermediate\Build\Win64\UE4Editor\Development\FilePickerPluginEd\FilePickerPluginEd.cpp.obj"
+"F:\dev\FilePicker\Plugins\FilePickerPlugin\Intermediate\Build\Win64\UE4Editor\Development\FilePickerPluginEd\Default.rc2.res"
+/OUT:"F:\dev\FilePicker\Plugins\FilePickerPlugin\Intermediate\Build\Win64\UE4Editor\Development\FilePickerPluginEd\UE4Editor-FilePickerPluginEd.lib"
+/INCLUDE:IMPLEMENT_MODULE_FilePickerPluginEd

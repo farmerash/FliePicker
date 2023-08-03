@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.FilePickerPlugin.cpp.obj": [
+			"FilePickerPlugin.cpp.obj",
+			"FilePickerPluginBPLibrary.cpp.obj"
+		],
+		"Module.FilePickerPlugin.gen.cpp.obj": [
+			"FilePickerPlugin.init.gen.cpp.obj",
+			"FilePickerPluginBPLibrary.gen.cpp.obj"
+		]
+	}
+}

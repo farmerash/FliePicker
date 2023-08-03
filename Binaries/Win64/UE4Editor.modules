@@ -1,0 +1,8 @@
+{
+	"BuildId": "14830424",
+	"Modules": 
+	{
+		"FilePickerPlugin": "UE4Editor-FilePickerPlugin.dll",
+		"FilePickerPluginEd": "UE4Editor-FilePickerPluginEd.dll"
+	}
+}
